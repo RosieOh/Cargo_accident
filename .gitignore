@@ -2,11 +2,11 @@
 .env
 
 # 생성된 파일들
-*.csv
-*.gsheet
-*.xlsx
-*.xls
-*.json
+# *.csv
+# *.gsheet
+# *.xlsx
+# *.xls
+# *.json
 
 # Python 관련 파일
 __pycache__/
